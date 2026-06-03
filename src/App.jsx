@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import IntroCover from './components/IntroCover'
+// import IntroCover from './components/IntroCover'
 import Hero from './components/Hero'
 import Countdown from './components/Countdown'
 import Welcome from './components/Welcome'
